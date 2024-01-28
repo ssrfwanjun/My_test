@@ -54,3 +54,4 @@ class SyntheticRegressionData(d2l.DataModule):  #@save
 
 data = SyntheticRegressionData(w=torch.tensor([2, -3.4]), b=4.2)
 print(data.X[0],data.y[0])
+#git push by pycharm test
